@@ -42,8 +42,8 @@ class Notes extends Component {
       }
       
       notes.sort(compare);
-
-      displayNote = notes[0];
+      if (notes.length > 0)
+        displayNote = notes[0];
 
       this.setState({notes, displayNote});
     });

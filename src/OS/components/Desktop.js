@@ -97,6 +97,9 @@ class Desktop extends Component {
           {this.state.activeApplications}
           <Dock addApplication={this.addApplication}/>
         </div>
+        <div className='mobile-only'>
+          <h1>Please open on desktop to use</h1>
+        </div>
       </div>
     );
   }

@@ -1,12 +1,12 @@
 import firebase from 'firebase';
 
 const config = {
-  apiKey: "AIzaSyCWHGK5EXqHpuVD9oL7l-2T_0oL2BskMzE",
-  authDomain: "bitch-e388d.firebaseapp.com",
-  databaseURL: "https://bitch-e388d.firebaseio.com",
-  projectId: "bitch-e388d",
+  apiKey: "AIzaSyBxIsg9ZG_Hlr1fK59UCiWpdlo1qzpbgGo",
+  authDomain: "macreact-a858a.firebaseapp.com",
+  databaseURL: "https://macreact-a858a.firebaseio.com",
+  projectId: "macreact-a858a",
   storageBucket: "",
-  messagingSenderId: "393698259877"
+  messagingSenderId: "919720439810"
 }
 
 const fire = firebase.initializeApp(config);

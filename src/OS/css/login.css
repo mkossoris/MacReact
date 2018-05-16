@@ -57,3 +57,10 @@
   cursor: pointer;
   display: block;
 }
+
+@media (max-width:641px) {
+  .login-screen {
+    display: none;
+    visibility: hidden;
+  }
+}
