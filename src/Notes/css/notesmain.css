@@ -1,0 +1,24 @@
+.notes-main {
+  width: 70%;
+  height: 100%;
+}
+
+.note-date {
+  color: grey;
+  font-size: 11px;
+  text-align: center;
+}
+
+.notes-main textarea {
+  margin-left: 20px;
+  height: 90%;
+  width: 92%;
+  background-color: transparent;
+  border: none;
+  resize: none;
+  font-size: 12px;
+}
+
+.notes-main textarea:focus {
+  outline: none;
+}

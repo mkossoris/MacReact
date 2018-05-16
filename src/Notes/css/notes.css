@@ -1,0 +1,18 @@
+.notes-window {
+  width: 60%;
+  height: 450px;
+  background-color: white;
+  margin-left: 20vw;
+  margin-right: auto;
+  margin-top: 10vh;
+  background-image: url(https://media.gettyimages.com/photos/white-paper-texture-background-picture-id474941120?b=1&k=6&m=474941120&s=612x612&w=0&h=0fAazll7z4L60l3DKYlvGRfnYg0T1RluI7uayvga_RQ=);
+  background-size: 100% 100%;
+  border-radius: 6px;
+  box-shadow: 0px 0px 30px 10px rgba(0, 0, 0, 0.116);
+  position: absolute;
+}
+
+.notes-main-wrapper {
+  display: flex;
+  height: 414px;
+}

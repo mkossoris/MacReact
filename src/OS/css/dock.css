@@ -1,0 +1,13 @@
+.dock {
+  width: 92%;
+  height: 70px;
+  background-color: silver;
+  position: absolute;
+  opacity: .9;
+  bottom: 0;
+  margin-left: 4%;
+  border-radius: 6px 6px 0px 0px;
+  padding-top: 5px;
+  display: flex;
+  justify-content: center;
+}

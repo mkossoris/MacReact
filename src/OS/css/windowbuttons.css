@@ -1,0 +1,30 @@
+.window-buttons {
+  width: 60px;
+  height: 15px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.window-button {
+  padding: 0;
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  font-size: 11px;
+  color: rgb(90, 90, 90);
+  text-align: center;
+  cursor: default;
+  line-height: 12px;
+}
+
+.red {
+  background-color: #FF6058;
+}
+
+.yellow {
+  background-color: #FFBF2E;
+}
+
+.green {
+  background-color: #28CE42;
+}
