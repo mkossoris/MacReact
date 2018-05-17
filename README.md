@@ -1,5 +1,5 @@
 # MacReact
-## A React front end and Firebase back end web app to simulate MacOS
+A React front end and Firebase back end web app to simulate MacOS
 
 ## About React
 
