@@ -1,3 +1,8 @@
+## MacReact
+# A React front end and Firebase back end web app to simulate MacOS
+
+## About React
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
