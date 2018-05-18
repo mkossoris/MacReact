@@ -1,6 +1,7 @@
-![MacReact](https://imgur.com/093bJY9)
 # MacReact
 A React front end and Firebase back end web app to simulate MacOS
+
+![MacReact](https://i.imgur.com/093bJY9.png)
 
 ### Front-End (React)
 
