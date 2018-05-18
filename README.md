@@ -5,7 +5,7 @@ A React front end and Firebase back end web app to simulate MacOS
 
 This project was created as an experiment to test out the abilities of React and as a learning experience for myself. I was trying to come up with an application I could try to simulate on the web, and thought, why not an entire OS!
 
-The beauty of React is its statefulness, which works out perfectly for rendering a complex system like this. The state of the OS is managed in the Desktop component, where only currently-running apps are being rendered by the browser as opposed to just hiding currently-disabled apps. This makes the entire application more efficient.
+The beauty of React is its statefulness, which works out perfectly for rendering a complex system like this. The state of the OS is managed in the Desktop component, where only currently-running apps are being rendered by the browser as opposed to just hiding currently-disabled apps. This makes the entire application very efficient.
 
 Beyond that, React is intuitive and relatively easy to learn, making it fun to work with and experiment with building progressive web apps. The largest improvement that could be made with this application is incorporating a state manager, and specifically Redux. I have yet to learn this system, but the benefits of using this, especially with something as complex as this application would make sense.
 
